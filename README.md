@@ -11,11 +11,11 @@ Elegir una pagina y determinar que partes conforman cada una.
 | Videos relacionados en la parte derecha, poder dejar comentarios, poder dar me gusta o no, suscribirse, etc. | Suscribirse en rojo , icono de manito arriba o manito abajo, foto de canal en circulo. |
 
 
-![youtube-1](/assets/images/youtube.jpg)
+![image-1](assets/images/youtube.jpg)
 
-![youtube-1](/assets/images/youtube-2.jpg)
+![image-2](assets/images/youtube-2.jpg)
 
-![youtube-1](/assets/images/youtube-3.jpg)
+![image-3](assets/images/youtube-3.jpg)
 
 
 
