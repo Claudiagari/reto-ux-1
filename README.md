@@ -1,6 +1,8 @@
 # Partes conforman el UX y qué partes el UI
 Elegir una pagina y determinar que partes conforman cada una.
 
+## YouTube
+
 | UX | UI |
 | -- | -- |
 | Buscador en la parte de arriba. | Colores caracteristicos blanco, rojo y negro. |
