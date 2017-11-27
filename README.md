@@ -11,9 +11,8 @@ Elegir una pagina y determinar que partes conforman cada una.
 | Videos relacionados en la parte derecha, poder dejar comentarios, poder dar me gusta o no, suscribirse, etc. | Suscribirse en rojo , icono de manito arriba o manito abajo, foto de canal en circulo. |
 
 
-![image-1](assets/images/youtube.jpg)
-
-![image-2](assets/images/youtube-2.jpg)
+![image-1](https://fotos.subefotos.com/79a5a05bfb86fcf532fa74176bfcbac1o.jpg)
+[image-1]: /assets/images/youtube-2.JPG
 
 ![image-3](assets/images/youtube-3.jpg)
 
