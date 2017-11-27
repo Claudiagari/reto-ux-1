@@ -12,9 +12,10 @@ Elegir una pagina y determinar que partes conforman cada una.
 
 
 ![image-1](https://fotos.subefotos.com/79a5a05bfb86fcf532fa74176bfcbac1o.jpg)
-[image-1]: /assets/images/youtube-2.JPG
 
-![image-3](assets/images/youtube-3.jpg)
+![image-2](https://fotos.subefotos.com/d52f748d525966f0dbef5f1ac00ee850o.jpg)
+
+![image-3](https://fotos.subefotos.com/6da1b351db304804b7684a141773bdc2o.jpg)
 
 
 
